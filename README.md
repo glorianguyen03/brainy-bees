@@ -1,3 +1,3 @@
 # brainy-bees
 
-My Project is Microsoft MakeAracade.
+This is the link to my project (Microsoft MakeAracade)
